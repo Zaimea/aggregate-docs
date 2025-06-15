@@ -2,9 +2,6 @@
 title: How to use package
 description: How to use package
 github: https://github.com/zaimea/aggregate-docs/edit/main/
-sections: 
-    usage : 'Usage'
-    date-dolumn : 'Date Column'
 ---
 
 # Aggregate Usage
