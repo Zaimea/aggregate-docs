@@ -10,6 +10,14 @@ github: https://github.com/zaimea/aggregate-docs/edit/main/
 
 ## Instalation
 
+You can install the package via composer:
+
+```bash
+composer require zaimealabs/aggregate
+```
+
+or via composer.json
+
 ```json
 "repositories": [
         {
@@ -17,8 +25,4 @@ github: https://github.com/zaimea/aggregate-docs/edit/main/
             "url": "https://github.com/zaimealabs/aggregate"
         }
     ]
-```
-
-```bash
-composer require zaimealabs/aggregate
 ```
