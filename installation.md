@@ -8,6 +8,10 @@ github: https://github.com/zaimea/aggregate-docs/edit/main/
 
 [[TOC]]
 
+## Introduction
+
+This package will help you create ``aggregates`` for your models to generate charts or reports in your ``Laravel`` application.
+
 ## Instalation
 
 You can install the package via composer:
